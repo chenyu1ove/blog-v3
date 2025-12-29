@@ -7,7 +7,7 @@ const basicConfig = {
 	description: 'chenyu1ove 博客 | 前端开发 | 后端开发 | 杂谈 | 生活 | 技术分享 | 学习 | AI | 音乐 | 旅行 | 读书 | 电影 | 个人成长 | 编程',
 	author: {
 		name: 'chenyu1ove',
-		avatar: 'https://chencj.me/chenyu1ove/avatar/20251223152207_7_233.webp',
+		avatar: 'https://static.chencj.me/chenyu1ove/avatar/20251223152207_7_233.webp',
 		email: 'chenchongjunpro@gmail.com',
 		homepage: 'https://www.chencj.me/',
 	},
@@ -16,7 +16,7 @@ const basicConfig = {
 		name: '署名-非商业性使用-相同方式共享 4.0 国际',
 		url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
 	},
-	favicon: 'https://chencj.me/chenyu1ove/static/icon.png',
+	favicon: 'https://static.chencj.me/chenyu1ove/static/icon.png',
 	language: 'zh-CN',
 	timeEstablished: '2025-12-29',
 	timezone: 'Asia/Shanghai',
